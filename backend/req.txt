@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+transformers
+mediapipe
+opencv-python
+flask
+flask-socketio
+flask-cors
+numpy
